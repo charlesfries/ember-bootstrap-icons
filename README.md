@@ -1,7 +1,7 @@
 ember-bootstrap-icons
 ==============================================================================
 
-[Short description of the addon.]
+Use Bootstrap Icons in your Ember project. This addon uses Ember Octane.
 
 
 Compatibility

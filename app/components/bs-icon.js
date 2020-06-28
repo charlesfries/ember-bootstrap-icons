@@ -1,0 +1,1 @@
+export { default } from 'ember-bootstrap-icons/components/bs-icon';

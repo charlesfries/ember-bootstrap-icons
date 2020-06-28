@@ -3,6 +3,10 @@ ember-bootstrap-icons
 
 Use Bootstrap Icons in your Ember project. This addon uses Ember Octane.
 
+```hbs
+<BsIcon @name="toggles" />
+```
+
 
 Compatibility
 ------------------------------------------------------------------------------

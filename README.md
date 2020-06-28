@@ -7,7 +7,7 @@
 <h3 align="center">Bootstrap Icons for Ember</h3>
 
 <p align="center">
-  Bootstrap Icons React components using SVG and JS
+  Bootstrap Icons Ember components using SVG and JS
   <br>
   <a href="https://icons.getbootstrap.com/"><strong>Explore Bootstrap Icons »</strong></a>
 </p>
